@@ -1,7 +1,7 @@
 IPEx integration/staging tree
 ================================
 
-http://www.ipex.org
+http://www.ipex.nftify.network
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
